@@ -14,6 +14,8 @@ import ComputedDemo from './components/ComputedDemo.vue';
 import ClassDemo from './components/ClassDemo.vue';
 import StyleDemo from './components/StyleDemo.vue';
 import WatchDemo from './components/WatchDemo.vue';
+import ModelDemo from './components/ModelDemo.vue';
+import RefDemo from './components/RefDemo.vue';
 </script>
 
 <template>
@@ -29,7 +31,9 @@ import WatchDemo from './components/WatchDemo.vue';
     <!-- <EventDemo6/>
     <ArrayList/> -->
     <!-- <ComputedDemo/> -->
-     <!-- <ClassDemo/> -->
-      <!-- <StyleDemo/> -->
-       <WatchDemo/>
+    <!-- <ClassDemo/> -->
+    <!-- <StyleDemo/> -->
+    <!-- <WatchDemo/> -->
+    <!-- <ModelDemo/> -->
+    <RefDemo/>
 </template>
